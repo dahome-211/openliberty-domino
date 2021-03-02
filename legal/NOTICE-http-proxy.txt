@@ -1,4 +1,0 @@
-Smiley's Proxy Servlet
-Copyright 2011, The MITRE Corporation
-
-Created by David Smiley, dsmiley@mitre.org.
